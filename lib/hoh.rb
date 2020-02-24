@@ -30,8 +30,6 @@
    sub_category: nil
 }
 
-Hash = { }
-
 def naming_system
   # Remember:
   #  Kingdom
